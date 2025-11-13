@@ -1,0 +1,3 @@
+var/psi.sqlite
+*.log
+out/
